@@ -94,7 +94,7 @@
         "i18next": "^19.3.4",
         "i18next-browser-languagedetector": "^4.0.2",
         "i18next-xhr-backend": "^3.2.2",
-        "immer": "^8.0.0",
+        "immer": "^9.0.6",
         "jetifier": "^1.6.6",
         "libphonenumber-js": "^1.7.49",
         "luxon": "^1.22.2",
